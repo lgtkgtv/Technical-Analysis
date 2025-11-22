@@ -1,6 +1,7 @@
 # readme.md  
 
-This repo is work in progress but the 
+![Technical Analysis](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRwPcYN4eW0ESEmksgxAfc5r2Z_0aLrrhH0oqJSZmR5TbybgycXJru7-YLs465dxwCupVHBMEUW7rmE5QKYWyX5UH8JBiEXS35WuZcRxucX_vlU6rc)
+
 Easy to follow Jupyter Notebook tutorials and Utilties for the retail investors community interested in learning about **Technical Analysis**
 
 ```
@@ -19,3 +20,4 @@ python -m ipykernel install --user --name=uv_project --display-name="Python (uv 
 
 jupyter notebook
 ```
+
