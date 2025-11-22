@@ -1,9 +1,12 @@
 # readme.md  
 
-![Technical Analysis](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRwPcYN4eW0ESEmksgxAfc5r2Z_0aLrrhH0oqJSZmR5TbybgycXJru7-YLs465dxwCupVHBMEUW7rmE5QKYWyX5UH8JBiEXS35WuZcRxucX_vlU6rc)
+Easy Notebook Tutorials and Utilties, for learning/exploring **Technical Analysis**
 
-Easy to follow Jupyter Notebook tutorials and Utilties for the retail investors community interested in learning about **Technical Analysis**
+<img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRwPcYN4eW0ESEmksgxAfc5r2Z_0aLrrhH0oqJSZmR5TbybgycXJru7-YLs465dxwCupVHBMEUW7rmE5QKYWyX5UH8JBiEXS35WuZcRxucX_vlU6rc" alt="Technical Analysis" width="300" height="150"/>
 
+Example Notebook showing SMA Crossover  [A Moving Average Crossover Strategy -- Example for NVDA](https://lgtkgtv.github.io/Technical-Analysis/HTML/)
+
+## Setup  
 ```
 uv venv .venv --python 3.12
 source .venv/bin/activate
